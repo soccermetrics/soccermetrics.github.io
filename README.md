@@ -1,4 +1,4 @@
-soccermetrics.github.io
-=======================
+Soccermetrics Projects
+======================
 
-Soccermetrics' publicly available software projects on Github
+Soccermetrics Software Project Page
